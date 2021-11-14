@@ -6,14 +6,14 @@ To run **TODO CLI App**, use  the following command:
 go run main.go todo [...]
 ```
 
-TODO CLI app has subcommands shown in picture:
+**TODO CLI App** has subcommands shown in picture:
 
 
 Command  | Description
 ------------- | -------------
-$ todo -v  |  show version of TODO CLI App")
-$ todo -a  |  add new todo item")
-$ todo -l  |  list all uncompleted items")
-$ todo -m  |  mark an item as completed")
-$ todo -c  |  list completed items")
-$ todo -d  |  delete item")
+$ todo -v  |  show version of TODO CLI App
+$ todo -a  |  add new todo item
+$ todo -l  |  list all uncompleted items
+$ todo -m  |  mark an item as completed
+$ todo -c  |  list completed items
+$ todo -d  |  delete item
