@@ -6,7 +6,7 @@ To run **TODO CLI App**, use  the following command:
 go run main.go todo [...]
 ```
 
-**TODO CLI App** has subcommands shown in picture:
+**TODO CLI App** has subcommands shown in figure:
 
 
 Command  | Description
