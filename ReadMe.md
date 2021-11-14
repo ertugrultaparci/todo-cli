@@ -1,6 +1,6 @@
 # TODO CLI App
 
-To run "TODO CLI App", use  the following command:
+To run *TODO CLI App*, use  the following command:
 
 ```
 go run main.go todo [...]
